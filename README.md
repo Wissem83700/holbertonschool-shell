@@ -1,2 +1,2 @@
-gtr
+#!/bin/bash
 gtr
